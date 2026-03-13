@@ -18,7 +18,7 @@
 
 
 Пользователь отправляет боту геолокацию, бот определяет город и возвращает актуальные погодные данные.
-<img width="458" height="394" alt="image" src="https://github.com/user-attachments/assets/eea7952d-566e-43e4-a1f2-d7c82611d013" />
+<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/eea7952d-566e-43e4-a1f2-d7c82611d013" />
 
 
 
