@@ -1,4 +1,4 @@
-<img width="932" height="314" alt="image" src="https://github.com/user-attachments/assets/5d3c7e52-1e6c-4999-ba59-29b9528d34d4" />**OpenWeatherMap API** — [openweathermap.org](https://openweathermap.org)
+**OpenWeatherMap API** — [openweathermap.org](https://openweathermap.org)
 
 
 
@@ -69,7 +69,7 @@ def is_toxic(text: str, threshold: float = 0.5) -> tuple[bool, float]:
 
 **GitHub**.
 
-![Uploading image.png…]()
+<img width="932" height="314" alt="image" src="https://github.com/user-attachments/assets/5d3c7e52-1e6c-4999-ba59-29b9528d34d4" />
 
 ```bash
 git init
