@@ -1,6 +1,15 @@
 **OpenWeatherMap API** — [openweathermap.org](https://openweathermap.org)
 
+
+
+
+
 Бесплатный погодный API, предоставляющий данные о текущей погоде, прогнозах и геокодировании. В проекте используются два эндпоинта:
+
+
+
+
+
 
 | Эндпоинт | Назначение |
 |---|---|
@@ -8,6 +17,10 @@
 | `geo/1.0/reverse` | Reverse geocoding — определение названия города по координатам GPS |
 
 Пользователь отправляет боту геолокацию, бот определяет город и возвращает актуальные погодные данные.
+
+
+
+
 
 ---
 
@@ -18,6 +31,10 @@
 Предобученная языковая модель от Google. Является основой для большинства современных моделей классификации текста на русском языке.
 
 ---
+
+
+
+
 
 ## Модель трансформера
 
@@ -56,10 +73,10 @@ def is_toxic(text: str, threshold: float = 0.5) -> tuple[bool, float]:
 git init
 git add .
 git commit -m "initial commit"
-git remote add origin https://github.com/Aror0/moderator.git
+git remote add origin https://github.com/Aror1/moderator.git
 git push -u origin main
 ```
 
-Репозиторий: `https://github.com/Aror0/moderator.git`
+Репозиторий: `[https://github.com/Aror0/moderator.git](https://github.com/Aror1/moderator.git`
 
 ---
