@@ -1,4 +1,4 @@
-**OpenWeatherMap API** — [openweathermap.org](https://openweathermap.org)
+<img width="932" height="314" alt="image" src="https://github.com/user-attachments/assets/5d3c7e52-1e6c-4999-ba59-29b9528d34d4" />**OpenWeatherMap API** — [openweathermap.org](https://openweathermap.org)
 
 
 
@@ -69,6 +69,8 @@ def is_toxic(text: str, threshold: float = 0.5) -> tuple[bool, float]:
 
 **GitHub**.
 
+![Uploading image.png…]()
+
 ```bash
 git init
 git add .
@@ -80,3 +82,6 @@ git push -u origin main
 Репозиторий: `[https://github.com/Aror0/moderator.git](https://github.com/Aror1/moderator.git`
 
 ---
+
+
+
